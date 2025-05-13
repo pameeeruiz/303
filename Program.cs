@@ -10,6 +10,11 @@ namespace _303
     {
         static void Main(string[] args)
         {
+            ///pamela ruiz
+            while (true)
+            {
+                
+            }
         }
     }
 }
